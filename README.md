@@ -26,7 +26,7 @@
 
 <h2>Certification:</h2>
 
-  - [Google Data Analytics Professional](https://cousera.org/verify/professional-cert/UCSGH4TGM6E4)
+  - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/UCSGH4TGM6E4)
 
 <h2> 🤳 Connect with me:</h2>
 
