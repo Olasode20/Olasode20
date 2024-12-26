@@ -1,5 +1,5 @@
 <h1>Hi, I'm Muiz! <br/><a href="https://github.com/Olasode20">Data Analyst</a> </h1>
-<h4>I specialize in analyzing, visualizing, and effectively communicating data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
+<h4>I analyze, visualize, and effectively communicate data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
 
 <h2>Tech Stack</h2>
 <b>These are the technologies I work with :</b> <br/ >
