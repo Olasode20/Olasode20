@@ -33,11 +33,11 @@
 
   
 
-<h2>Certification:</h2>
+<h3>Certification:</h3>
 
   - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/UCSGH4TGM6E4)
 
-<h2> 🤳 Connect with me:</h2>
+<h3> 🤳 Connect with me:</h3>
 
 [<img align="left" alt="Olasode | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
