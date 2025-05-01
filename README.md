@@ -16,7 +16,7 @@
 
  
   
-<h2>👨‍💻 Data Projects:</h2>
+<h3>👨‍💻 Projects:</h3>
 <b> Here are some of the projects I've worked on:</b>
 
 - <b>SQL</b>
