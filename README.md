@@ -1,13 +1,18 @@
 <h1>Hi, I'm Muiz! <br/><a href="https://github.com/Olasode20">Data Analyst</a> </h1>
 <h4>I analyze, visualize, and effectively communicate data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
 
-<h2>Tech Stack</h2>
-<b>These are the technologies I work with :</b> <br/ >
-- <b>Excel</b><br/>
-- <b>SQL</b><br/ >
-- <b>Power BI</b><br/ >
-- <b>Python</b><br/ >
-- <b>Tableau</b><br/ >
+
+### 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Power%20BI-F2C811?logo=powerbi&logoColor=black&style=flat" />
+  <img src="https://img.shields.io/badge/-Tableau-E97627?logo=tableau&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat" />
+</p>
+
  
   
 <h2>👨‍💻 Data Projects:</h2>
