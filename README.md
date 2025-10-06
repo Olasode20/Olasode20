@@ -1,5 +1,5 @@
 <h1>Hi, I'm Muiz!
-<h3> Data Analyst 📊 | ML Engineer in the making 🤖 | Learning, Building, Predicting | Olasodemuiz@gmail.com <h3>
+<h3> Data Analyst 📊 | ML Engineer in the making 🤖 | Learning, Building, Predicting <h3>
 <h4>I analyze, visualize, and effectively communicate data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
 
 
@@ -38,6 +38,7 @@
   - [Google Data Analytics Professional](https://www.coursera.org/account/accomplishments/professional-cert/UCSGH4TGM6E4)
 
 <h3> 🤳 Connect with me:</h3>
+<h3> Olasodemuiz@gmail.com </h3>
 
 [<img align="left" alt="Olasode | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
