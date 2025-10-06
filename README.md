@@ -1,5 +1,5 @@
 <h1>Hi, I'm Muiz!
-<h3> Data Analyst | Olasodemuiz@gmail.com <h3>
+<h3> Data Analyst 📊 | ML Engineer in the making 🤖 | Learning, Building, Predicting | Olasodemuiz@gmail.com <h3>
 <h4>I analyze, visualize, and effectively communicate data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
 
 
