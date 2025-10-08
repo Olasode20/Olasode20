@@ -2,7 +2,7 @@
 <h3> Data Analyst 📊 | ML Engineer in the making 🤖 | Olasodemuiz@gmail.com <h3>
 <h4>I analyze, visualize, and effectively communicate data to enable smarter, data-driven decisions. Through hands-on project experience, I have developed the ability to work with complex datasets, uncover trends, and translate data into actionable insights..</h4>
 
-![Profile View Count](https://countapi.xyz/hit/Olasode20/visits)
+![Profile View Count](https://komarev.com/ghpvc/?username=Olasode20&label=Profile%20views&color=0e75b6&style=flat)
 
 ### 🛠️ Tech Stack
 
