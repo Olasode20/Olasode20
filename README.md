@@ -77,20 +77,6 @@ A deep learning computer vision application capable of classifying uploaded imag
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Olasode20&show_icons=true&theme=github_dark)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Olasode20&theme=github-dark)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Olasode20&layout=compact&theme=github_dark)
-
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 - 💼 LinkedIn: https://linkedin.com/in/olasode-muiz
